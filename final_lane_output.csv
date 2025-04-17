@@ -1,0 +1,5 @@
+Lane,Cars,Motorcycle,Trucks_Buses,Ambulance,Emergency,Green_Light_Time
+lane_1,0,0,2,2,Yes,28.48
+lane_2,11,0,2,1,Yes,30.40
+lane_3,18,3,5,0,No,27.12
+lane_4,16,0,3,0,No,34.00
