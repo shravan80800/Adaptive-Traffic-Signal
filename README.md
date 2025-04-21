@@ -31,7 +31,7 @@ This project supports *sustainability and smart city goals* in the following way
 
 | Tool            | Purpose                                 | License        |
 |-----------------|------------------------------------------|----------------|
-| *YOLOv8*      | Object detection (vehicles & ambulances) | GPL-3.0 / Hybrid |
+| *YOLOv11*      | Object detection (vehicles & ambulances) | GPL-3.0 / Hybrid |
 | *OpenCV*      | Image processing and computer vision     | BSD License    |
 | *Scikit-learn*| Machine learning (Random Forest)         | BSD License    |
 | *NumPy*       | Numerical operations                     | BSD License    |
